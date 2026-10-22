@@ -1,0 +1,15 @@
+# Telegram agent, Google integrations, and Windows/MT5 skills
+python-dotenv
+python-telegram-bot[job-queue]
+google-genai
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+tzdata
+pandas
+numpy
+MetaTrader5; platform_system == "Windows"
+psutil
+mss
+Pillow

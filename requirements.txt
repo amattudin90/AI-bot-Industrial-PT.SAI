@@ -1,0 +1,4 @@
+# Full project: Telegram bot + trading + Factory AI Streamlit capacity app
+-r requirements-bot.txt
+streamlit
+openpyxl

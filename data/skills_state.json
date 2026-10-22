@@ -1,0 +1,12 @@
+{
+  "enabled": {
+    "battery_monitor": true,
+    "laptop_control": true,
+    "system_monitor": true,
+    "screenshot": true
+  },
+  "notify_chat_ids": [
+    834683715
+  ],
+  "battery_poll_sec": 60
+}

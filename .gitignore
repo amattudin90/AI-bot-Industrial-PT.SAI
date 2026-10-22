@@ -1,0 +1,37 @@
+# Python environments and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+client_secret.json
+token.json
+*.pem
+*.key
+
+# Runtime output and transient uploads
+logs/
+bot.log
+radar_loop.log
+trading_log.txt
+trading_halt.json
+radar.stop
+temp_media/*
+!temp_media/.gitkeep
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Archives / backups
+*.zip
+*.bak

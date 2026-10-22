@@ -1,0 +1,214 @@
+{
+ "waktu": "2026-10-21 13:24:15",
+ "setup": [
+  {
+   "symbol": "GBPUSD",
+   "tf": "M15",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 1.33761,
+   "sl": 1.33725,
+   "tp": 1.33852,
+   "status": "INVALID",
+   "info": "harga menembus SL"
+  },
+  {
+   "symbol": "USDJPY",
+   "tf": "M5",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 158.098,
+   "sl": 158.1175,
+   "tp": 158.04925,
+   "status": "INVALID",
+   "info": "harga menembus SL"
+  },
+  {
+   "symbol": "USDCAD",
+   "tf": "M5",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 1.40631,
+   "sl": 1.40619,
+   "tp": 1.4066,
+   "status": "INVALID",
+   "info": "harga menembus SL"
+  },
+  {
+   "symbol": "USDCAD",
+   "tf": "M15",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 1.40628,
+   "sl": 1.40598,
+   "tp": 1.40703,
+   "status": "SKIP",
+   "info": "Max open trades reached"
+  },
+  {
+   "symbol": "AUDUSD",
+   "tf": "M15",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 0.70126,
+   "sl": 0.70087,
+   "tp": 0.70224,
+   "status": "COOLDOWN",
+   "info": "zona ini sudah dibuka"
+  },
+  {
+   "symbol": "EURJPY",
+   "tf": "M15",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 177.474,
+   "sl": 177.4285,
+   "tp": 177.58775,
+   "status": "SKIP",
+   "info": "Max open trades reached"
+  },
+  {
+   "symbol": "GBPJPY",
+   "tf": "M15",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 211.449,
+   "sl": 211.3983,
+   "tp": 211.57575,
+   "status": "WATCH",
+   "info": "3.2 pip dari zona entry"
+  },
+  {
+   "symbol": "AUDJPY",
+   "tf": "M5",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 110.962,
+   "sl": 110.9113,
+   "tp": 111.08875,
+   "status": "SKIP",
+   "info": "Max open trades reached"
+  },
+  {
+   "symbol": "CADJPY",
+   "tf": "M5",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 112.478,
+   "sl": 112.4949,
+   "tp": 112.43575,
+   "status": "INVALID",
+   "info": "harga menembus SL"
+  },
+  {
+   "symbol": "CADJPY",
+   "tf": "M15",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 112.509,
+   "sl": 112.574,
+   "tp": 112.3465,
+   "status": "COOLDOWN",
+   "info": "zona ini sudah dibuka"
+  },
+  {
+   "symbol": "EURGBP",
+   "tf": "M15",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 0.83912,
+   "sl": 0.83925,
+   "tp": 0.8388,
+   "status": "SKIP",
+   "info": "Max open trades reached"
+  },
+  {
+   "symbol": "EURAUD",
+   "tf": "M5",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 1.59981,
+   "sl": 1.60042,
+   "tp": 1.59828,
+   "status": "SKIP",
+   "info": "Max open trades reached"
+  },
+  {
+   "symbol": "EURCAD",
+   "tf": "M5",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 1.57822,
+   "sl": 1.57804,
+   "tp": 1.57868,
+   "status": "INVALID",
+   "info": "harga menembus SL"
+  },
+  {
+   "symbol": "GBPCAD",
+   "tf": "M15",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 1.88061,
+   "sl": 1.88097,
+   "tp": 1.8797,
+   "status": "WATCH",
+   "info": "8.6 pip dari zona entry"
+  },
+  {
+   "symbol": "GBPNZD",
+   "tf": "M5",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 2.35712,
+   "sl": 2.35655,
+   "tp": 2.35855,
+   "status": "INVALID",
+   "info": "harga menembus SL"
+  },
+  {
+   "symbol": "AUDCHF",
+   "tf": "M5",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 0.57925,
+   "sl": 0.57896,
+   "tp": 0.57997,
+   "status": "WATCH",
+   "info": "1.8 pip dari zona entry"
+  },
+  {
+   "symbol": "AUDNZD",
+   "tf": "M5",
+   "signal": "BUY",
+   "score": 6,
+   "entry": 1.23614,
+   "sl": 1.23589,
+   "tp": 1.23676,
+   "status": "SKIP",
+   "info": "Max open trades reached"
+  },
+  {
+   "symbol": "NZDCHF",
+   "tf": "M5",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 0.46847,
+   "sl": 0.4686,
+   "tp": 0.46815,
+   "status": "INVALID",
+   "info": "harga menembus SL"
+  },
+  {
+   "symbol": "NZDCHF",
+   "tf": "M15",
+   "signal": "SELL",
+   "score": 6,
+   "entry": 0.46895,
+   "sl": 0.46918,
+   "tp": 0.46836,
+   "status": "WATCH",
+   "info": "2.4 pip dari zona entry"
+  }
+ ]
+}
