@@ -2,3 +2,11 @@
 -r requirements-bot.txt
 streamlit
 openpyxl
+pandas
+python-dotenv
+google-genai
+python-telegram-bot
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
